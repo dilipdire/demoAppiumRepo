@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AndroidNativeSuite" verbose="1">
+    <test name="Single Slab">
+        <classes>
+            <class name="org.mis.tests.ACSlabTest"/>
+            <class name="org.mis.tests.B2BSlabTest"/>
+            <class name="org.mis.tests.EscortTest"/>
+            <class name="org.mis.tests.ShiftsTest"/>
+            <class name="org.mis.tests.TripAdjustmentSlabTest"/>
+            <class name="org.mis.tests.EmployeeAdjustmentSlabTest"/>
+            <class name="org.mis.tests.DriverAllowanceTest"/>
+        </classes>
+    </test>
+
+</suite>

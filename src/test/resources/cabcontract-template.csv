@@ -1,0 +1,2 @@
+ETS Cab Id, Cab Registration, Display Id, StartDate(dd/mm/yyyy or dd-mm-yyyy), Start Time(hh:mm:ss), End Time, Day Type, Office, Contract, Trip Type, Direction
+1,KA-01-AA-0154,MIS - 101,1/11/2020,00:00:00,23:59:59,ALL,ALL,Indica,DEFAULT,BOTH

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AndroidNativeSuite" verbose="1">
+    <test name="New Billing Suite">
+        <classes>
+            <class name="org.mis.tests.VendorContractMappingTest"/>
+            <class name="org.mis.tests.ManualTollTest"/>
+            <class name="org.mis.tests.CabContractTest"/>
+            <class name="org.mis.tests.ParkingPageTest"/>
+        </classes>
+    </test>
+</suite>
